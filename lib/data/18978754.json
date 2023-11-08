@@ -1,0 +1,51 @@
+{
+    "0": {
+      "title": "iPhone 15 Pro",
+      "text": "Titanium. So light. So Pro.",
+      "button": "Buy",
+      "link": "https://www.apple.com/us/shop/goto/buy_iphone/iphone_15_pro",
+      "cover": "https://www.apple.com/la/iphone-15-pro/images/overview/welcome/hero__iztc7m63bfiy_small_2x.jpg"
+    },
+    "1": {
+      "title": "iPhone 15",
+      "text": "New camera. New desing. Newphoria.",
+      "button": "Buy",
+      "link": "https://www.apple.com/us/shop/goto/buy_iphone/iphone_15",
+      "cover": "https://www.apple.com/v/iphone-15/a/images/overview/welcome/hero__cfd0uaxcnbw2_small_2x.jpg"
+    },
+    "2": {
+      "title": "Apple Watch Series 9",
+      "text": "Smarter. Brighter. Mightier.",
+      "button": "Buy",
+      "link": "https://www.apple.com/us/shop/goto/buy_watch/apple_watch_series_9",
+      "cover": "https://www.apple.com/la/apple-watch-series-9/images/overview/design/design_brightness_bright__fxm8wpmm1p6y_small_2x.jpg"
+    },
+    "3": {
+      "title": "Apple Watch Ultra 2",
+      "text": "Next level adventure.",
+      "button": "Buy",
+      "link": "https://www.apple.com/us/shop/goto/buy_watch/apple_watch_ultra_2",
+      "cover": "https://www.apple.com/la/apple-watch-ultra-2/images/overview/hero/hero_startframe__eq3lc0n7kdyu_small_2x.jpg"
+    },
+    "4": {
+      "title": "Carbon Neutral",
+      "text": "A first for Apple Watch. And Apple.",
+      "button": "Learn more",
+      "link": "https://www.apple.com/environment/",
+      "cover": "https://www.apple.com/newsroom/images/values/environment/Apple_commits-100-percent-carbon-neutrality-for-supply-chain-and-products-by-2030_07212020_Full-Bleed-Image.jpg.small_2x.jpg"
+    },
+    "6": {
+      "title": "AirPods Pro",
+      "text": "Adaptative Audio. Now playing.",
+      "button": "Buy",
+      "link": "https://www.apple.com/us/shop/goto/product/MTJV3",
+      "cover": "https://www.apple.com/v/airpods-pro/h/images/overview/noise_cancel_airpod__bewzeymccxxu_small_2x.jpg"
+    },
+    "7": {
+      "title": "Apple.com",
+      "text": "Discover more on Apple.com.",
+      "button": "Visit Apple.com",
+      "link": "https://www.apple.com",
+      "cover": null
+    }
+  }

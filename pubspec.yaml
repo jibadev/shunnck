@@ -1,0 +1,116 @@
+name: shunnck
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 3.0.3+10
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image: ^3.1.0
+  get: ^4.6.5
+  share: ^2.0.4
+  flutter_localization: any
+  flutter_inappwebview: ^5.8.0
+  cupertino_icons: ^1.0.2
+  intl: ^0.18.0
+  http: ^0.13.5
+  webview_flutter: ^4.0.7
+  flutter_svg: any
+  ionicons: ^0.2.2
+  flutter_native_splash: any
+  flutter_keyboard_visibility: ^5.4.1
+  shared_preferences: ^2.1.1
+  after_layout: any
+  url_launcher: any
+  html: ^0.15.4
+  package_info_plus: any
+  loading_animation_widget: ^1.2.0+4
+  connectivity_plus: ^4.0.2
+  flutter_blurhash: ^0.7.0
+  masonry_grid: ^1.0.0
+  image_picker: ^1.0.4
+  file_picker: ^6.1.1
+  intl_utils: ^2.8.5
+  local_auth: ^2.1.7
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/frame-1.png
+    - assets/images/frame-1-b.png
+    - assets/images/frame-2.png
+    - assets/images/frame-2-b.png
+    - assets/images/frame-3.png
+    - assets/images/frame-3-b.png
+    - assets/images/shunnck-logo.png
+    - assets/images/shunnck-logo-blanco.svg
+    - assets/images/shunnck-logo-blanco2.svg
+    - assets/images/shunnck-logo-blanco.png
+    - assets/images/ceresfera-b.png
+    - assets/images/ceresfera-n.png
+    - assets/images/planeta_blanco.png
+    - assets/images/planeta_rojo.png
+    - assets/images/mural_blanco.png
+    - assets/images/mural_rosa.png
+    - assets/images/base-1.png
+    - assets/images/base-1-b.png
+    - assets/images/base-2-b.png
+    - assets/images/base-2.png
+    - assets/images/base-3-cidra-b.png
+    - assets/images/base-3-cidra.png
+    - assets/images/img.estado.jpg
+    - assets/images/icono-holowide.png
+    - assets/images/svg/claro.svg
+    - assets/images/svg/oscuro.svg
+
+  fonts:
+    - family: LeaugeSpartan
+      fonts:
+        - asset: assets/fonts/LeagueSpartan-Bold.ttf
+    - family: LeaugeSpartanLite
+      fonts:
+        - asset: assets/fonts/LeagueSpartan-Regular.ttf
+    - family: PON
+      fonts:
+        - asset: assets/fonts/Gabarito-VariableFont_wght.ttf
+    - family: LexendExa
+      fonts:
+        - asset: assets/fonts/LexendExa-VariableFont_wght.ttf
+    - family: SJ
+      fonts:
+        - asset: assets/fonts/Lora-VariableFont_wght.ttf
+    - family: MAY
+      fonts:
+        - asset: assets/fonts/PTMono-Regular.ttf
+    - family: CAG
+      fonts:
+        - asset: assets/fonts/SixCaps-Regular.ttf
+    - family: ARE
+      fonts:
+        - asset: assets/fonts/WorkSans-VariableFont_wght.ttf
+
+flutter_intl:
+  enabled: true
